@@ -7,6 +7,7 @@ How to run:
     - If database settings in the file are wrong, change them
 - Run the following commands:
 ```
+composer install
 php artisan key:generate
 php artisan serve
 ```
